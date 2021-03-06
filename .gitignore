@@ -1,0 +1,6 @@
+CMakeLists.txt.user
+cmake-build-debug/
+cmake_modules/
+.idea/
+*~
+
